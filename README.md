@@ -1,10 +1,37 @@
-# Voyage-Vista : A tour website
- Voyage Vista serve as gateways to adventure, offering a glimpse into the vast array of
- experiences that await the eager traveler. They are designed to inspire and inform,
- providing detailed information on destinations, accommodations, and itineraries. An
- effective travel website abstract should encapsulate the essence of exploration and
- discovery, highlighting unique features and services that cater to the needs of all types
- of travelers. Developed primarily using HTML, CSS, JavaScript, NodeJS and React
- this project introduces students to the fundamental aspects of web development,
- encouraging them to develop the skills essential for creating dynamic and responsive
- web applications 
+✈️ Voyage Vista
+
+🌍 Overview
+
+Voyage Vista is a dynamic and interactive travel and tourism web application designed to enhance trip planning, booking, and travel experiences. This platform integrates cutting-edge technologies to provide users with personalized travel recommendations, secure bookings, real-time information, and a community-driven experience.
+
+🚀 Features
+
+🌍 Real-Time API Integrations – ChatBot API
+
+👥 Community-Based Recommendations – Social features for travelers to share experiences.
+
+💻 Responsive UI/UX Design – Optimized for desktop and mobile.
+
+💾 Backend Optimization & Database Management – Utilized MongoDB for efficient data storage and retrieval, ensuring scalability.
+
+🤖 AI Chatbot – Provides real-time assistance to users.
+
+🛠 Tech Stack
+
+🎨 Frontend:
+
+⚛️ React.js
+
+🖥️ HTML5, CSS3, JavaScript
+
+🏗️ Backend:
+
+🌐 Node.js
+
+🚀 Express.js
+
+🗄️ Database:
+🗃️ MongoDB
+🔌 APIs & Integrations:
+🤖 ChatBot API
+🎉 Feel free to contribute and enhance Voyage Vista! 🚀
